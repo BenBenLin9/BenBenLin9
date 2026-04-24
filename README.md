@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @BenBenLin9
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+easylink-ai/
+├─ inq-system
+├─ meeting-notes-system
+├─ ai-control-center
+├─ whisper-service
+├─ vision-ai-service
+└─ shared-utils
 
 <!---
 BenBenLin9/BenBenLin9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
